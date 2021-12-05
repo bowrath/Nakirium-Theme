@@ -1,0 +1,17 @@
+/**
+ * @name Nakirium
+ * @author Bowrath
+ * @authorLink https://website.bowrath.repl.co
+ * @version 1
+ * @description Ayame's theme from Hololive
+ * @website https://www.youtube.com/watch?v=oToq8plyVqc
+*/
+
+@import url('https://DiscordStyles.github.io/DarkMatter/src/base.css');
+
+:root {
+    --accent: 247, 55, 55;
+    --accent-alt: 247, 55, 55;
+    --background-image: url('https://wallpx.com/image/2021/05/hololive-red-eyes-field-shrine-japanese-clothes-horns-torii-nakiri-ayame-night.jpg');
+    --home-image: url('https://c.tenor.com/cJfiBxKyVaAAAAAM/ayame.gif');
+}
